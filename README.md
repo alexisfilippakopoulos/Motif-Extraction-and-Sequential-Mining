@@ -22,3 +22,19 @@ not too much text, with offensive words/emojis (insults, strong words, etc).
 so polite way
 7. end : polite message in which a user says that the conversation should stop,
 without exchanging phone numbers
+<br>
+Figures:
+
+<br>
+<br>
+
+![Conversation Endiings](/figures/conv_end.png)
+
+<br>
+
+![Static Metrics](/figures/metrics_static.png)
+
+<br>
+(To view interactive version just open the .html file in your browser.)
+
+
